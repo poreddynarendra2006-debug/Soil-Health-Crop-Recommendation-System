@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F1F8E9</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="green_dark">#1B5E20</color>
+    <color name="green_light">#4CAF50</color>
+    <color name="green_primary">#2E7D32</color>
+    <color name="green_surface">#E8F5E9</color>
+    <color name="statusBarColor">#1B5E20</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <string name="app_name">Crop AI</string>
+    <string name="error_humidity_range">Humidity must be between 0 and 100</string>
+    <string name="error_invalid_number">Enter a valid number</string>
+    <string name="error_ph_range">pH must be between 0 and 14</string>
+    <string name="error_required">This field is required</string>
+    <string name="humidity_hint">Humidity (%)</string>
+    <string name="loading_message">Analyzing soil data…</string>
+    <string name="nitrogen_hint">Nitrogen (N) in mg/kg</string>
+    <string name="ph_hint">pH Value (0–14)</string>
+    <string name="phosphorus_hint">Phosphorus (P) in mg/kg</string>
+    <string name="potassium_hint">Potassium (K) in mg/kg</string>
+    <string name="predict_button">Get Crop Recommendation</string>
+    <string name="rainfall_hint">Rainfall (mm)</string>
+    <string name="reset_button">Reset Fields</string>
+    <string name="result_title">Recommendation Result</string>
+    <string name="share_button">Share Result</string>
+    <string name="share_title">Share Recommendation</string>
+    <string name="temperature_hint">Temperature (°C)</string>
+    <string name="try_again">← Try Another Analysis</string>
+    <style name="Theme.CropRecommendationApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/green_primary</item>
+        <item name="colorPrimaryVariant">@color/green_dark</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">@color/green_light</item>
+        <item name="colorSecondaryVariant">@color/green_dark</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="android:statusBarColor">@color/green_dark</item>
+        <item name="android:navigationBarColor">@color/background</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+    <style name="Theme.CropRecommendationApp.Splash" parent="Theme.CropRecommendationApp">
+        <item name="android:statusBarColor">@color/green_primary</item>
+        <item name="android:windowBackground">@color/green_primary</item>
+    </style>
+</resources>

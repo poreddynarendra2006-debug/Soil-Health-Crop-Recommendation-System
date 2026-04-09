@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.cropapp.recommendation.app-merged_res-38:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.cropapp.recommendation.app-main-40:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.cropapp.recommendation.app-merged_res-38:/drawable_ic_temperature.xml.flat",
+        "source": "com.cropapp.recommendation.app-main-40:/drawable/ic_temperature.xml"
+    },
+    {
+        "merged": "com.cropapp.recommendation.app-merged_res-38:/drawable_ic_phosphorus.xml.flat",
+        "source": "com.cropapp.recommendation.app-main-40:/drawable/ic_phosphorus.xml"
+    },
+    {
+        "merged": "com.cropapp.recommendation.app-merged_res-38:/drawable_ic_ph.xml.flat",
+        "source": "com.cropapp.recommendation.app-main-40:/drawable/ic_ph.xml"
+    },
+    {
+        "merged": "com.cropapp.recommendation.app-merged_res-38:/drawable_ic_rainfall.xml.flat",
+        "source": "com.cropapp.recommendation.app-main-40:/drawable/ic_rainfall.xml"
+    },
+    {
+        "merged": "com.cropapp.recommendation.app-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "com.cropapp.recommendation.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.cropapp.recommendation.app-merged_res-38:/drawable_ic_crop_logo.xml.flat",
+        "source": "com.cropapp.recommendation.app-main-40:/drawable/ic_crop_logo.xml"
+    },
+    {
+        "merged": "com.cropapp.recommendation.app-merged_res-38:/drawable_ic_humidity.xml.flat",
+        "source": "com.cropapp.recommendation.app-main-40:/drawable/ic_humidity.xml"
+    },
+    {
+        "merged": "com.cropapp.recommendation.app-merged_res-38:/layout_activity_result.xml.flat",
+        "source": "com.cropapp.recommendation.app-main-40:/layout/activity_result.xml"
+    },
+    {
+        "merged": "com.cropapp.recommendation.app-merged_res-38:/layout_activity_splash.xml.flat",
+        "source": "com.cropapp.recommendation.app-main-40:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.cropapp.recommendation.app-merged_res-38:/drawable_ic_nitrogen.xml.flat",
+        "source": "com.cropapp.recommendation.app-main-40:/drawable/ic_nitrogen.xml"
+    },
+    {
+        "merged": "com.cropapp.recommendation.app-merged_res-38:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "com.cropapp.recommendation.app-main-40:/mipmap-hdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.cropapp.recommendation.app-merged_res-38:/drawable_ic_potassium.xml.flat",
+        "source": "com.cropapp.recommendation.app-main-40:/drawable/ic_potassium.xml"
+    }
+]

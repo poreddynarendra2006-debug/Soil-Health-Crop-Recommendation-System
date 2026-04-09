@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Crop AI</string>
+    <string name="predict_button">Get Crop Recommendation</string>
+    <string name="reset_button">Reset Fields</string>
+    <string name="nitrogen_hint">Nitrogen (N) in mg/kg</string>
+    <string name="phosphorus_hint">Phosphorus (P) in mg/kg</string>
+    <string name="potassium_hint">Potassium (K) in mg/kg</string>
+    <string name="temperature_hint">Temperature (°C)</string>
+    <string name="humidity_hint">Humidity (%)</string>
+    <string name="ph_hint">pH Value (0–14)</string>
+    <string name="rainfall_hint">Rainfall (mm)</string>
+    <string name="error_required">This field is required</string>
+    <string name="error_invalid_number">Enter a valid number</string>
+    <string name="error_ph_range">pH must be between 0 and 14</string>
+    <string name="error_humidity_range">Humidity must be between 0 and 100</string>
+    <string name="loading_message">Analyzing soil data…</string>
+    <string name="result_title">Recommendation Result</string>
+    <string name="share_title">Share Recommendation</string>
+    <string name="try_again">← Try Another Analysis</string>
+    <string name="share_button">Share Result</string>
+</resources>
